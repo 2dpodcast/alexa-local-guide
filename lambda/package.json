@@ -1,0 +1,15 @@
+{
+  "name": "local-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MerryOscar",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8",
+    "opearlo-analytics": "^0.1.9"
+  }
+}
